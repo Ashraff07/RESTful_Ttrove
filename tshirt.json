@@ -1,0 +1,35 @@
+{
+    "tshirtsList":[
+     {
+         "id": "1",
+         "tshirt": "Blue Denim Jacket",
+         "size": ["XL", "L",  "M", "S"]
+     },
+     {
+         "id": "2",
+         "tshirt": "Black Mens Polo Full Sleeve T-Shirt",
+         "size": ["XL", "L", "M", "S"]
+     },
+     {
+         "id": "3",
+         "tshirt": "Grey Round Neck T-Shirt",
+         "size": ["XL", "L",  "M", "S"]
+     },
+     {
+         "id": "4",
+         "tshirt": "Navy Blue Polo Half Sleeve T-Shirt",
+         "size": ["XL", "L", "M", "S"]
+     },
+     {
+         "id": "5",
+         "tshirt": "Green Polo Printed T-Shirt",
+         "size": ["XL", "L",  "M", "S"]
+     },
+     {
+         "id": "6",
+         "tshirt": "Green Round Necked T-Shirt",
+         "size": ["XL", "L", "M", "S"]
+     }
+    ]
+ }
+ 
