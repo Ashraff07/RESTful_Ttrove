@@ -1,0 +1,20 @@
+t{
+    "tshirtsList":[
+     {
+         "id": "101",
+         "tshirt": "Beige Zipper Hoodie Unisex",
+         "size": ["XL", "L",  "M", "S"]
+     },
+     {
+         "id": "102",
+         "tshirt": "Brown Zipper Hoodie Unisex",
+         "size": ["XL", "L", "M", "S"]
+     },
+     {
+         "id": "103",
+         "tshirt": "Lavender Hoodie Unisex",
+         "size": ["XL", "L", "M", "S"]
+     }
+    ]
+ }
+ 
